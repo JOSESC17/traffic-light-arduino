@@ -1,4 +1,4 @@
-traffic-light-arduino
+# traffic-light-arduino
 Traffic control system implementation: transitioning from automatic loops to interactive push-button triggers.
 
 ###Arduino Traffic Light Control 🚦 This repository documents my first mechatronics engineering project, where I explore peripheral control and embedded programming logic.
